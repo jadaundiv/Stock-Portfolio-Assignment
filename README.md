@@ -55,7 +55,8 @@ The backend APIs are designed to be integrated with Rajsi Traders' frontend UI. 
 
 ## Live Demo
 
-Check out the live demo of the frontend: [Rajsi Traders Stock Platform](https://bd1-stocks.vercel.app/).
+Check out the live demo of the frontend: [Rajsi Traders Stock Platform](https://bd1-stocks.vercel.app/).<br/>
+For Integrating with frontend UI copy and apste this link (https://stock-portfolio-assignment-eight.vercel.app) with above provided link.
 
 ---
 
